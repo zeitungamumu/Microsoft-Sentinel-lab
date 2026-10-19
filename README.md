@@ -128,7 +128,7 @@ Observed accounts included examples such as:
 \admin
 \administrator
 
-his provided authentication activity that could be used to build and test a detection.
+This provided authentication activity that could be used to build and test a detection.
 
 
 
