@@ -115,7 +115,7 @@ SecurityEvent
 | order by FailedLogons desc
 ```
 
-nitially, this query returned no results.
+Initially, this query returned no results.
 
 Instead of assuming that Event ID 4625 was unavailable, I expanded the time range and removed restrictive filters.
 
